@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package punto1;
+package punto6y7;
 
 import java.text.DateFormat;
 import java.text.ParseException;

@@ -5,8 +5,8 @@
  */
 package test;
 
-import punto1.Fecha;
-import punto1.Palabra;
+import punto6y7.Fecha;
+import punto6y7.Palabra;
 import java.text.ParseException;
 import java.util.Calendar;
 import java.util.Scanner;
