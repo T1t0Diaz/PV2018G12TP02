@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package inicio;
+package test;
 
-import dominio.Fecha;
-import dominio.Palabra;
+import punto1.Fecha;
+import punto1.Palabra;
 import java.text.ParseException;
 import java.util.Calendar;
 import java.util.Scanner;
@@ -15,7 +15,7 @@ import java.util.Scanner;
  *
  * @author Alfred
  */
-public class Principal {
+public class Principal6y7 {
 
     /**
      * @param args the command line arguments
@@ -29,9 +29,9 @@ public class Principal {
         Fecha fe = new Fecha();
         char resp;
         System.out.println("----------------MENU DE OPCIONES----------------");
-        System.out.println("OPCION 1 : contar vocales de un String ");
+        /*System.out.println("OPCION 1 : contar vocales de un String ");
         System.out.println("OPCION 2 : Invertir un String ");
-        System.out.println("OPCION 3 : Contar un caracter en un cadena String ");
+        System.out.println("OPCION 3 : Contar un caracter en un cadena String ");*/
         System.out.println("OPCION 6 : Calcular diferencia de dias entre fechas ");
         System.out.println("OPCION 7 : Mostrar 100 dias despues de fecha ingresada en formato personalizado");
         
